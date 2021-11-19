@@ -29,6 +29,7 @@
   padding: 0;
   list-style: none;
 }
+
 /* This is required to win over specificity of [dir="rtl"] .region-content ul */
 [dir="rtl"] .field--type-entity-reference ul.links {
   padding: 0;

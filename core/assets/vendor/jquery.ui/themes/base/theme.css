@@ -111,8 +111,8 @@ a.ui-button:focus {
 a.ui-button:active,
 .ui-button:active,
 .ui-button.ui-state-active:hover {
-	border: 1px solid #003eff/*{borderColorActive}*/;
-	background: #007fff/*{bgColorActive}*/ /*{bgImgUrlActive}*/ /*{bgActiveXPos}*/ /*{bgActiveYPos}*/ /*{bgActiveRepeat}*/;
+	border: 1px solid #000000/*{borderColorActive}*/;
+	background: #94a1ae/*{bgColorActive}*/ /*{bgImgUrlActive}*/ /*{bgActiveXPos}*/ /*{bgActiveYPos}*/ /*{bgActiveRepeat}*/;
 	font-weight: normal/*{fwDefault}*/;
 	color: #ffffff/*{fcActive}*/;
 }

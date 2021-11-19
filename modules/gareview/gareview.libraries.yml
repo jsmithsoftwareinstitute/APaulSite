@@ -1,0 +1,12 @@
+gareview:
+  version: 1.x
+  css:
+    theme:
+        css/gareview.css: {}
+  js:
+    https://cdn.rawgit.com/stevenmonson/googleReviews/6e8f0d79/google-places.js: { type: external }
+    js/gareview.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
+    

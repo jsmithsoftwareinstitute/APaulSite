@@ -1,0 +1,17 @@
+.region-header,
+.region-header a,
+.region-header li a.is-active,
+.region-header .site-branding__text,
+.region-header .site-branding,
+.region-header .site-branding__text a,
+.region-header .site-branding a,
+.region-secondary-menu .menu-item a,
+.region-secondary-menu .menu-item a.is-active {
+  color: #000000;
+}
+
+#header {
+  background-color: #000000;
+  background-image: -webkit-linear-gradient(top, #b1b1b1 0%, #fdfdfd 100%);
+  background-image: linear-gradient(to bottom, #f9f9f9 0%, #e9e9e9 100%);
+}

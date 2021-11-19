@@ -11,6 +11,10 @@
   padding: 0 15px;
 }
 
+.site-footer__top .region-footer-first{
+  margin-left: 25%;
+}
+
 @media all and (min-width: 560px) {
   .site-footer__top .region {
     position: relative;
@@ -91,8 +95,8 @@
 }
 .site-footer .content a,
 .site-footer .content a.is-active {
-  color: #fcfcfc;
-  color: rgba(255, 255, 255, 0.8);
+  color: #000000;
+  color: rgba(0, 0, 0, 0.8);
 }
 .site-footer .content a:hover,
 .site-footer .content a:focus {

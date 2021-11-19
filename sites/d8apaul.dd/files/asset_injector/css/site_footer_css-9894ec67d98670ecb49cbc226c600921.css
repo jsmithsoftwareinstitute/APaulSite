@@ -1,0 +1,9 @@
+.site-footer {
+    background: #f0f0f0;
+    z-index: 1;
+}
+
+.site-footer {
+    padding: 40px 0 40px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
